@@ -4,11 +4,11 @@
 Full Stack Developer (C#/ASP.NET/Angular)
 -----------------------------------------
 
-- Email: <samira.yusifova@gmail.com>
-- Phone: [912-308-8409]
-- Portfolio: [link](https://tiamatt.github.io/Portfolio/)
+- Email: **samira.yusifova@gmail.com**
+- Phone: **(912) 308-8409**
+- Portfolio: [website](https://tiamatt.github.io/Portfolio/)
 - Github: [Tiamatt](https://github.com/Tiamatt)
-- Skype: samira.yusifova
+- Skype: **samira.yusifova**
 
 
 Summary
@@ -71,7 +71,7 @@ Technical Sills
 Work Experience
 ----------
 
-### **Software Engineer ** at [Assurant](https://www.assurant.com)
+### **Software Engineer** at [Assurant](https://www.assurant.com)
 
 *Sep 2015 - present, Duluth, GA*
 
@@ -138,4 +138,4 @@ Additional languages
 - Swedish (basic)
 
 
-©2018 [Samira Yusifova](https://github.com/Tiamatt)
+©2018 [Samira Yusifova](https://tiamatt.github.io/Portfolio/)
