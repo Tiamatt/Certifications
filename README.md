@@ -10,11 +10,21 @@ Full Stack Developer (Angular/C#/.NET)
 - Github: [Tiamatt](https://github.com/Tiamatt)
 - Skype: **samira.yusifova**
 
+I am a Full Stack Developer with five years of experience in a full software development lifecycle – from concepts and requirements to deployment and support of web applications. Back in summer 2017 I became interested in Angular and fell in love with this great framework. I’m self-motivated and extremely passionate about web development in all its forms. Highly adaptable in quickly changing technical environments with strong organizational and analytical skills.
 
 Summary
 -------
 
-I am a Full Stack Developer with five years of experience in a full software development lifecycle – from concepts and requirements to deployment and support of web applications. Back in summer 2017 I became interested in Angular and fell in love with this great framework. I’m self-motivated and extremely passionate about web development in all its forms. Highly adaptable in quickly changing technical environments with strong organizational and analytical skills.
+* Comfortable building responsive web applications with Angular/.NET
+* Experience working with and developing RESTful APIs
+* Able to create objects (tables, views, stored procedures, functions)  and write efficient SQL queries for relational databases.
+* Solid understanding of Object Oriented Programming (OOP) and capable of implementing OOP in JavaScript/C#/PHP
+* Focusing on readability, maintainability, and scalability when writing code
+* Managing and supporting multiple projects
+* Ability to work fully independently or as part of a team in Agile and DevOps cultures
+* Microsoft Certification Exam 98-361: Software Development Fundamentals
+* Master’s Degree in Economics, Umeå University, Sweden
+* Self-started with enthusiastic willingness to acquire new knowledge and skills
 
 
 Technical Sills
