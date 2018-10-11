@@ -1,13 +1,14 @@
 # Resume of Samira Yusifova
 
 
-Full Stack Developer (Angular/C#/.NET)
+Full Stack Developer (Angular/.NET)
 -----------------------------------------
 
 - Email: **samira.yusifova@gmail.com**
 - Phone: **(912) 308-8409**
 - Portfolio: [website](https://tiamatt.github.io/Portfolio/)
 - Github: [Tiamatt](https://github.com/Tiamatt)
+- LinkedIn: [link](https://www.linkedin.com/in/samirayusifova/)
 - Skype: **samira.yusifova**
 
 I am a Full Stack Developer with five years of experience in a full software development lifecycle – from concepts and requirements to deployment and support of web applications. Back in summer 2017 I became interested in Angular and fell in love with this great framework. I’m self-motivated and extremely passionate about web development in all its forms. Highly adaptable in quickly changing technical environments with strong organizational and analytical skills.
@@ -120,7 +121,7 @@ Work Experience
 
 ### **.NET developer** at [Romantic LLC](http://romantic.az)
 
-*Dec 2013 – June 2015, Baku, Azerbaijan*
+*Dec 2013 – June 2015 (Baku, Azerbaijan)*
 
 - Developed Romantic Analytics web application from scratch with ASP.NET Web Forms. Presented all kinds of business reports. Applied customized access control for the application based on users’ privileges.
 - Developed WinForms applications with CRUD functionality and sales indices calculation.
@@ -131,7 +132,7 @@ Work Experience
 
 ### **Business analyst** at [Romantic LLC](http://romantic.az)
 
-*Sep 2012 – Dec 2013, Baku, Azerbaijan*
+*Sep 2012 – Dec 2013 (Baku, Azerbaijan)*
 
 - Built, tested and maintained MS SQL database queries, stored procedures, functions and views.
 - Created OLAP cubes and designed MDX queries with SQL Server Analysis Services (SSAS).
@@ -140,7 +141,7 @@ Work Experience
 
 ### **Junior Macroeconomic Analyst** at [Institute for Economic Reforms](http://www.ier.az/en/)
 
-*July 2008 – Sep 2008, Baku, Azerbaijan*
+*July 2008 – Sep 2008 (Baku, Azerbaijan)*
 
 - Monitored and prepared analytical reports of GDP growth and inflation.
 - Collected and maintained data based on consumer price index.
