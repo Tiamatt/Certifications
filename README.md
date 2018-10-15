@@ -8,7 +8,7 @@ Full Stack Developer (Angular/.NET)
 - Phone: **(912) 308-8409**
 - Portfolio: [website](https://tiamatt.github.io/Portfolio/)
 - Github: [Tiamatt](https://github.com/Tiamatt)
-- LinkedIn: [link](https://www.linkedin.com/in/samirayusifova/)
+- LinkedIn: [Samira Yusifova](https://www.linkedin.com/in/samirayusifova/)
 - Skype: **samira.yusifova**
 
 I am a Full Stack Developer with five years of experience in a full software development lifecycle – from concepts and requirements to deployment and support of web applications. Back in summer 2017 I became interested in Angular and fell in love with this great framework. I’m self-motivated and extremely passionate about web development in all its forms. Highly adaptable in quickly changing technical environments with strong organizational and analytical skills.
@@ -17,15 +17,16 @@ Summary
 -------
 
 * Comfortable building responsive web applications with Angular/.NET
-* Experience working with and developing RESTful APIs
-* Able to create objects (tables, views, stored procedures, functions)  and write efficient SQL queries for relational databases.
-* Solid understanding of Object Oriented Programming (OOP) and capable of implementing OOP in JavaScript/C#/PHP
+* Strong experience in working with and developing RESTful APIs
+* Efficient at writing complex SQL queries and design tables/views/stored procedures/functions for relational databases
+* Solid understanding of Object Oriented Programming (OOP) and capable of implementing OOP in JavaScript/TypeScript/C#/PHP
 * Focusing on readability, maintainability, and scalability when writing code
 * Managing and supporting multiple projects
 * Ability to work fully independently or as part of a team in Agile and DevOps cultures
 * Microsoft Certification Exam 98-361: Software Development Fundamentals
 * Master’s Degree in Economics, Umeå University, Sweden
 * Self-started with enthusiastic willingness to acquire new knowledge and skills
+
 
 
 Technical Sills
@@ -102,12 +103,13 @@ Work Experience
 ### **Full Stack Developer** at [NovoLogic Inc.](https://novologic.com)
 *Feb 2018 - present (Lawrenceville, GA)*
 
-- Developed fully responsive sophisticated web application (using Angular/PHP) for such clients as Chick-fil-A, Panera Bread, Delta Airlines, etc.
-- Created reports module with data visualization using Angular charts, graphs and gauges.
-- Built reusable custom directives, custom pipes and custom filters.
+- Developed fully responsive sophisticated web application (using Angular/PHP) for such clients as Chick-fil-A, Panera Bread, Zaxby’s, etc.
+- Created pages with data visualization using Angular charts, graphs and gauges.
+- Built reusable custom pipes, custom directives and custom filters.
 - Managed permissions with Access Control Lists (ACL).
-- Implemented Continuous Development (via Jira, Git, Docker),  Continuous Integration (via Jenkins, FlyWay) and Continuous Deployment (to AWS). Also practiced the basics of Continuous Testing (via Jasmine & Karma, Selenium).
+- Implemented Continuous Development (via Jira, Git, Docker),  Continuous - Integration (via Jenkins, FlyWay) and Continuous Deployment (to AWS). Also practiced the basics of Continuous Testing (via Jasmine & Karma, Selenium).
 - Participated in daily scrum standups, pair programming, code refactoring and proactive knowledge sharing to learn new technologies and methodologies.
+
 
 ### **Software Engineer** at [Assurant Inc.](https://www.assurant.com)
 
