@@ -1,3 +1,6 @@
+**Certifications**
+![cert-screenshots](cert-screenshots.png)
+
 **Contact me:**
 - Email: **samira.yusifova@gmail.com**
 - Github: [Tiamatt](https://github.com/Tiamatt)
