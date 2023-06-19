@@ -1,5 +1,5 @@
 **Certifications**
-![cert-screenshots](cert-screenshots.png)
+![cert-screenshots](cert-screenshot-images.png)
 
 **Contact me:**
 - Email: **samira.yusifova@gmail.com**
